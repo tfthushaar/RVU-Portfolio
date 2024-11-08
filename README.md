@@ -105,7 +105,7 @@ RVU-Portfolio/
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/RVU-Portfolio.git
+   git clone https://github.com/tfthushaar/RVU-Portfolio.git
    cd RVU-Portfolio
 
 2. Install dependencies for both frontend and backend:
